@@ -1,4 +1,4 @@
-C++ for ROS
+Study C++ and ROS for SALM 
 =============
 목적
 ------------
