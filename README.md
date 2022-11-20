@@ -1,4 +1,4 @@
-Study C++ and ROS for SALM 
+Study C++ and ROS for Low cost radar SLAM 
 =============
 목적
 ------------
