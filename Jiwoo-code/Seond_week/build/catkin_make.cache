@@ -1,0 +1,2 @@
+customMSG:subpub_simultane:topic_
+-DCATKIN_DEVEL_PREFIX=/home/jiwoo/Desktop/jiwoo_study/seond_week/devel -DCMAKE_INSTALL_PREFIX=/home/jiwoo/Desktop/jiwoo_study/seond_week/install -G Unix Makefiles
