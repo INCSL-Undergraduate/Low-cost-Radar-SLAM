@@ -1,0 +1,2 @@
+service_ex
+-DCATKIN_DEVEL_PREFIX=/home/jiwoo/Desktop/jiwoo_study/Jiwoo-code/third_week/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/jiwoo/Desktop/jiwoo_study/Jiwoo-code/third_week/ROS/install -G Unix Makefiles
